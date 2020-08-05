@@ -7,7 +7,9 @@
 
 赞助帮助我平衡家庭和开源时间！
 ## 感谢赞助
-![paycode](https://user-images.githubusercontent.com/11746742/89366577-b768d600-d709-11ea-80b4-349a75c6d6d7.png)
+
+<img width="500px" src="https://user-images.githubusercontent.com/11746742/89366577-b768d600-d709-11ea-80b4-349a75c6d6d7.png"/>
+
 [paypal](https://paypal.me/xiaohuoni?locale.x=zh_XC)
 
 ## alitajs社区公众号
