@@ -8,7 +8,7 @@
 赞助帮助我平衡家庭和开源时间！
 ## 感谢赞助
 
-<img width="500px" src="https://user-images.githubusercontent.com/11746742/89366577-b768d600-d709-11ea-80b4-349a75c6d6d7.png"/>
+<img width="500px" src="https://user-images.githubusercontent.com/11746742/89369031-94412500-d70f-11ea-8d6b-38c973a10bc8.png"/>
 
 [paypal](https://paypal.me/xiaohuoni?locale.x=zh_XC)
 
