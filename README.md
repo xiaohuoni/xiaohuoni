@@ -7,8 +7,6 @@
 6. 我不是福娃，请不要向我咨询关于阿里内部的事情（我也想知道的），如果你需要内推服务，可以帮忙对接相关人员。
 
 赞助帮助我平衡家庭和开源时间！
-## 请我去一次健身房
-
 <img width="500px" src="https://user-images.githubusercontent.com/11746742/89369031-94412500-d70f-11ea-8d6b-38c973a10bc8.png"/>
 
 [paypal](https://paypal.me/xiaohuoni?locale.x=zh_XC)
