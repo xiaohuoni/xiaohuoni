@@ -6,6 +6,13 @@
 5. 我暂时帮助管理 Alitajs 社区。
 6. 我不是福娃，请不要向我咨询关于阿里内部的事情（我也想知道的），如果你需要内推服务，可以帮忙对接相关人员。
 
+<p>
+<a href="https://github.com/xiaohuoni">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xiaohuoni&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xiaohuoni&theme=radical&layout=compact&exclude_lang=java+r" />
+</a>
+</p>
+
 赞助帮助我平衡家庭和开源时间！
 <img width="500px" src="https://user-images.githubusercontent.com/11746742/89369031-94412500-d70f-11ea-8d6b-38c973a10bc8.png"/>
 
