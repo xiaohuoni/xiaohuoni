@@ -1,3 +1,7 @@
+## alitajs社区公众号
+
+![qrcode](https://user-images.githubusercontent.com/11746742/89367565-f4ce6300-d70b-11ea-9b4c-e49c65336c82.jpg)
+
 # 关于我
 1. 前端开发人员，积极的开源工作者。
 2. [alita](https://github.com/alitajs/alita)的作者。
@@ -18,6 +22,3 @@
 
 [paypal](https://paypal.me/xiaohuoni?locale.x=zh_XC)
 
-## alitajs社区公众号
-
-![qrcode](https://user-images.githubusercontent.com/11746742/89367565-f4ce6300-d70b-11ea-9b4c-e49c65336c82.jpg)
