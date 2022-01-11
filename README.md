@@ -1,7 +1,3 @@
-## alitajs社区公众号
-
-![qrcode](https://user-images.githubusercontent.com/11746742/89367565-f4ce6300-d70b-11ea-9b4c-e49c65336c82.jpg)
-
 # 关于我
 1. 前端开发人员，积极的开源工作者。
 2. [alita](https://github.com/alitajs/alita) 的作者。
@@ -17,3 +13,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xiaohuoni&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
+## alitajs社区公众号
+
+![qrcode](https://user-images.githubusercontent.com/11746742/89367565-f4ce6300-d70b-11ea-9b4c-e49c65336c82.jpg)
