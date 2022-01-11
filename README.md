@@ -10,18 +10,10 @@
 5. <del>偶尔解答 [nextjs](https://github.com/vercel/next.js) 的答疑问题，参与 [nextjs中文官网](https://nextjs-cn.com) 的翻译维护工作。</del>
 6. 我暂时帮助管理 alita 社区。
 7. 我不是福娃，如果你需要内推服务，可以帮忙对接相关人员。
-
+8. 有任何问题，可添加本人微信咨询。 yu_xiaohu
 <p>
 <a href="https://github.com/xiaohuoni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xiaohuoni&show_icons=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xiaohuoni&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
-
-赞助帮助我平衡家庭和开源时间！
-<p>
-<img width="500px" src="https://user-images.githubusercontent.com/11746742/89369031-94412500-d70f-11ea-8d6b-38c973a10bc8.png"/>
-</p>
-
-[paypal](https://paypal.me/xiaohuoni?locale.x=zh_XC)
-
