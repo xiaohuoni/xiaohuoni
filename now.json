@@ -1,7 +1,5 @@
 {
-    "name": "xiaohuoni.com",
-    "version": 2,
-    "alias": [
-      "xiaohuoni.com"
-    ]
-  }
+  "name": "xiaohuoni.com",
+  "version": 2,
+  "alias": ["xiaohuoni.com"]
+}

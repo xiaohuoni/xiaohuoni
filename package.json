@@ -1,20 +1,40 @@
 {
   "name": "xiaohuoni",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "nothing",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "keywords": [],
+  "homepage": "https://github.com/xiaohuoni/xiaohuoni#readme",
+  "bugs": {
+    "url": "https://github.com/xiaohuoni/xiaohuoni/issues"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/xiaohuoni/xiaohuoni.git"
   },
-  "keywords": [],
-  "author": "xiaohuoni",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/xiaohuoni/xiaohuoni/issues"
+  "author": "xiaohuoni",
+  "main": "index.js",
+  "bin": {
+    "xiaohuoni": "bin/xiaohuoni.js"
   },
-  "homepage": "https://github.com/xiaohuoni/xiaohuoni#readme"
+  "files": [
+    "dist",
+    "bin",
+    "templates"
+  ],
+  "scripts": {
+    "build": "father build",
+    "dev": "father build -w",
+    "format": "prettier --cache --write ."
+  },
+  "dependencies": {
+    "@umijs/core": "^4.0.12",
+    "@umijs/utils": "^4.0.12",
+    "prettier": "^2.7.1",
+    "prettier-plugin-organize-imports": "^3.0.3",
+    "prettier-plugin-packagejson": "^2.2.18"
+  },
+  "devDependencies": {
+    "father": "4.0.0-rc.9"
+  }
 }
