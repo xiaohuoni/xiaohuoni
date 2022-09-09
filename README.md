@@ -1,4 +1,9 @@
 # 关于我
+
+## xiaohuoni 如何断词？
+
+xiaohuoni = xiaohu + oni 小虎是我初中开始用的笔名，oni 是一个拟声词，替代一种不常见的少数名族方言，是“心中的太阳”的意思。是我的乳名。
+
 1. 前端开发人员，积极的开源工作者。
 2. [alita](https://github.com/alitajs/alita) 的作者。
 3. [umi](https://github.com/umijs/umi) 核心开发成员。
