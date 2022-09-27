@@ -1,16 +1,16 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@umijs/core': ^4.0.12
   '@umijs/utils': ^4.0.12
   father: 4.0.0-rc.9
+  konos: ^0.0.2
   prettier: ^2.7.1
   prettier-plugin-organize-imports: ^3.0.3
   prettier-plugin-packagejson: ^2.2.18
 
 dependencies:
-  '@umijs/core': 4.0.12
   '@umijs/utils': 4.0.12
+  konos: 0.0.2
   prettier: 2.7.1
   prettier-plugin-organize-imports: 3.0.3_prettier@2.7.1
   prettier-plugin-packagejson: 2.2.18_prettier@2.7.1
@@ -2483,6 +2483,16 @@ packages:
     optionalDependencies:
       graceful-fs: 4.2.10
     dev: true
+
+  /konos/0.0.2:
+    resolution: {integrity: sha512-fgJSi5gXKQ+zhz56UAnMkfRARjyzu7eXS9derySPg2BAG9FQtiNUm+ZWVQAeqtJPpjbf3BYE2JHZVYtEpan2EA==}
+    hasBin: true
+    dependencies:
+      '@umijs/core': 4.0.12
+      '@umijs/utils': 4.0.12
+    transitivePeerDependencies:
+      - supports-color
+    dev: false
 
   /lines-and-columns/1.2.4:
     resolution: {integrity: sha512-7ylylesZQ/PV29jhEDl3Ufjo6ZX7gCqJr5F7PKrqc93v7fzSymt1BpwEU8nAUXs8qzzvqhbjhK5QZg6Mt/HkBg==}

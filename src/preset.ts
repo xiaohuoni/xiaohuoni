@@ -7,10 +7,6 @@ export default (api: IApi) => {
   });
   return {
     plugins: [
-      // commands
-      require.resolve('./commands/help'),
-      require.resolve('./commands/init'),
-
       // inits
       require.resolve('./inits/umiplugin'),
 
