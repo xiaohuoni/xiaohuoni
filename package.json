@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "@umijs/utils": "^4.0.12",
-    "konos": "^0.0.2",
+    "konos": "^0.0.3",
     "prettier": "^2.7.1",
     "prettier-plugin-organize-imports": "^3.0.3",
     "prettier-plugin-packagejson": "^2.2.18"
