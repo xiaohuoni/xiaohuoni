@@ -23,7 +23,6 @@
     "templates"
   ],
   "scripts": {
-    "b": "konos init",
     "build": "father build",
     "dev": "father build -w",
     "format": "prettier --cache --write ."
