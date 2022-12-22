@@ -1,5 +1,7 @@
 # 关于我
 
+<a href="https://rank.juejin.cn/rank/2022/writer/1838039174227006"><img src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/img/vote-enter.61e4fec.gif" alt="掘金年度人气作者" /></a>
+
 ## xiaohuoni 如何断词？
 
 xiaohuoni = xiaohu + oni 小虎是我初中开始用的笔名，oni 是一个拟声词，替代一种不常见的少数名族方言，是“心中的太阳”的意思。是我的乳名。
