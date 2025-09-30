@@ -9,3 +9,7 @@ xiaohuoni = xiaohu + oni 小虎是我初中开始用的笔名，oni 是一个拟
 3. [umi](https://github.com/umijs/umi) 核心开发成员。
 4. 辅助维护 [antd](https://github.com/ant-design/ant-design)、[ant-design-pro](https://github.com/ant-design/ant-design-pro)和 [dumi](https://github.com/umijs/dumi)，主要是帮忙做一点答疑工作、文档维护和简单 Issues 关闭。
 
+## 🔝 首要贡献反馈
+## 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=xiaohuoni&limit=15&combine_all_yearly_contributions=true)
